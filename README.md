@@ -75,3 +75,30 @@ A Java GUI-based application to manage student records using **Java**,
 -   Display results in GUI
 
 
+StudentManagement/
+│
+├── src/
+│   ├── controller/
+│   │   └── StudentServlet.java
+│   ├── dao/
+│   │   └── StudentDAO.java
+│   ├── model/
+│   │   └── Student.java
+│   └── util/
+│       └── DBConnection.java
+│
+├── WebContent/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── validation.js
+│   ├── addStudent.jsp
+│   ├── viewStudent.jsp
+│   └── index.jsp
+│
+├── WEB-INF/
+│   └── web.xml
+│
+└── README.md
+
+
