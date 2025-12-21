@@ -102,3 +102,25 @@ StudentManagement/
 └── README.md
 
 
+
+
+
+# Student Management Web Application
+
+## Technologies Used
+- Java (Servlet, JSP)
+- MySQL
+- HTML, CSS, JavaScript
+
+## Features
+- Add Student
+- View Student List
+- Input Validation
+- MVC Architecture
+
+## How to Run
+1. Import project in Eclipse
+2. Configure MySQL DB
+3. Run on Apache Tomcat
+
+
